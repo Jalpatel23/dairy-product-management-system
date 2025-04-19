@@ -1,0 +1,64 @@
+remove "sgp" from connection string in .env line 3
+
+
+<> chande to div
+
+
+
+
+
+===meaning
+
+
+update product and create product fix bugs
+
+
+admin dashboard par products barabar nathi dekhata
+
+
+category delete kari wakhate confirm button banai and ema warning apvani ki aana products delete nai thai par aa category baddha products ma thi jati rehse
+
+
+category and price sorting ma sort karti wakhate load more pan dbav trare extra products aai ai chee
+
+
+
+payment nu banai
+
+add user
+
+lock taskbard undoo
+
+
+cart is mase for all users
+meet na project ma check kar same isssu eche ke nai?
+and fix it
+
+
+
+deleted things (":category page and filter..." ,file:"22-23")
+    hook.js je hook folder ma chee
+    header,js ma category delete kari
+    categories.js file pages folder ma che , me banai aaj nathi
+    categoryProduct.js file pages folder ma che , me banai aaj nathi
+    app.js ma uppar ni banev file import nathi kaarii and route tag ma nathi nakhi
+    productroute.js ma eak route nathii
+    productcontroller ma eak controller nathii
+
+
+deleted things("payment gateway integration", file:"14")
+    make account in braintree
+    download 2 packaje braintree(in "sgpprojectt" file) and braintree-web-drop-in-react(in "client" file)
+    .env ma 3 keys
+    and add these key frorm .env to productcontroller
+    2 controllers productcontroller ma chee
+    2 routes banao aa banev controller na, productroutr ma 
+    ordermodal banao in modal folder
+    cart page ma forntend che thoduu
+
+
+
+
+
+
+
